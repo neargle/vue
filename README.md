@@ -1,10 +1,12 @@
 
-## A Fake Commit From @Evan You <yyx990803@gmail.com>
+## A Fake Commit From @Evan You
 
 这是一个假冒的 commit, 它真实的项目地址应该在 [neargle/vue](https://github.com/neargle/vue);  
 有人用同样的方式假冒了 Linus Torvalds 和 Linux。  
 可以参考：
  https://github.com/torvalds/linux/tree/8bcab0346d4fcf21b97046eb44db8cf37ddd6da0
+
+---
 
 This is a fake commit, its real project url should be [neargle/vue](https://github.com/neargle/vue);  
 Someone faked Linus Torvalds and Linux in the same way.  
